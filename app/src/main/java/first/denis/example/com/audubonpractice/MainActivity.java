@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 //TODO Use a randomizer to select one of the birds in the display.
 
 //TODO play the selected bird when play button is clicked.
-i
+
 //TODO select the bird associated to the display button which is clicked.
 
 //TODO Play the selected bird song.
@@ -32,6 +32,6 @@ i
 
 //TODO  Remove the bird from the possible selected birds.
 
-//TODO  
+//TODO
 
 
